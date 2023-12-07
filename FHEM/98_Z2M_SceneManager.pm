@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use POSIX;
 use Data::Dumper;
-
+use JSON;
 
 my $module_name="Z2M_SceneManager";
 my $VERSION    = '0.0.1';
