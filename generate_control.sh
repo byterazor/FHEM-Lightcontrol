@@ -1,5 +1,5 @@
 #!/bin/bash
-CONTROL_FILE="controls_byterazor-fhem-modules.txt"
+CONTROL_FILE="controls_byterazor-fhem-lightcontrol.txt"
 
 if [ -e $CONTROL_FILE ]; then
   rm $CONTROL_FILE
